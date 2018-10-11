@@ -1,0 +1,15 @@
+{
+  "name": "empty-project-template",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "firebase": "^5.5.3",
+    "native-base": "^2.8.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+  }
+}
