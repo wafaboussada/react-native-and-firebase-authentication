@@ -8,8 +8,11 @@
   },
   "dependencies": {
     "firebase": "^5.5.3",
+    "lodash": "^4.17.11",
     "native-base": "^2.8.1",
     "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+    "react-native": "^0.57.2",
+    "react-native-firebase": "^5.0.0",
+    "react-navigation": "^2.18.0"
   }
 }
